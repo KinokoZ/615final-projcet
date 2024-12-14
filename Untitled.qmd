@@ -1,0 +1,41 @@
+---
+title: "Aruba"
+author: "Jinran Li"
+date: "2024-12-16"
+format: revealjs
+editor: visual
+---
+
+![](www/WechatIMG1254.jpg)
+
+---
+
+![](www/WechatIMG1255.jpg)
+
+---
+
+##Air Quality
+
+-PM1
+
+-PM2.5
+
+-PM10
+
+I am following WHO's guideline, and inside the guideline there is no measurement of the value of pm1, so the goal of this time is to measure the value of pm1, which is more damaging to a person compared to other values
+
+---
+
+##SWOT
+
+Aruba Strengths.
+
+Economic diversity: Aruba has a well-developed tourism industry, especially at the high end of the tourism market, and is well connected to the North American and European markets.
+
+Climatic attractiveness: The dry tropical climate and year-round warm weather make it an ideal destination for year-round tourism.
+
+---
+
+Weaknesses.
+
+Limited natural resources: lack of agricultural resources, dependence on imports for food and drinking water, high costs. Environmental pressures: ecological pressures from tourism, e.g. air and sea water Economic homogeneity: high dependence on tourism and vulnerability to contingencies such as the global economy and epidemics.
