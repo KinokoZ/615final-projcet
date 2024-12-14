@@ -2,17 +2,17 @@
 title: "Aruba"
 author: "Jinran Li"
 date: "2024-12-16"
-format: revealjs
+format: pptx
 editor: visual
 ---
 
 ![](www/WechatIMG1254.jpg)
 
----
+------------------------------------------------------------------------
 
 ![](www/WechatIMG1255.jpg)
 
----
+------------------------------------------------------------------------
 
 ##Air Quality
 
@@ -24,7 +24,7 @@ editor: visual
 
 I am following WHO's guideline, and inside the guideline there is no measurement of the value of pm1, so the goal of this time is to measure the value of pm1, which is more damaging to a person compared to other values
 
----
+------------------------------------------------------------------------
 
 ##SWOT
 
@@ -34,7 +34,7 @@ Economic diversity: Aruba has a well-developed tourism industry, especially at t
 
 Climatic attractiveness: The dry tropical climate and year-round warm weather make it an ideal destination for year-round tourism.
 
----
+------------------------------------------------------------------------
 
 Weaknesses.
 
